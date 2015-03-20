@@ -2,4 +2,4 @@
 Repository for new, open-source PhonePlanChoices.com
 
 ## Contributing
-This repository is a work in progress. Contributions should be made to the "master" branch.
+This repository is a work in progress. Pull requests should be made on the "gh-pages" branch.
